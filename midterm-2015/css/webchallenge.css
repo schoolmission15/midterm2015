@@ -1,0 +1,9 @@
+/** selector **/
+
+.heading {
+    font-size: 3em;
+    line-height: 3;
+    color: #229933;
+    font-family: Lato, Helvetica, sans-serif;
+    font-weight: 900;
+}
